@@ -1,3 +1,6 @@
 [submodule "iipa_backend"]
 	path = iipa_backend
 	url = ./iipa_backend/
+[submodule "iipa_frontend"]
+	path = iipa_frontend
+	url = ./iipa_frontend/
