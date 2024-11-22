@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  lm_theory:
+    build: 
+      context: ./knowledgebases/lm_theory
+      dockerfile: Dockerfile
+    ports:
+      - "8800:8800"
+
