@@ -6,4 +6,10 @@ services:
       dockerfile: Dockerfile
     ports:
       - "8800:8800"
+  iipa_backend:
+    build: 
+      context: ./iipa_backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
 
