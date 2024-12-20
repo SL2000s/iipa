@@ -1,9 +1,12 @@
-[submodule "knowledgebases/lm_theory"]
-	path = knowledgebases/lm_theory
-	url = git@github.com:SL2000s/lm_theory.git
 [submodule "iipa_backend"]
 	path = iipa_backend
 	url = git@github.com:SL2000s/iipa_backend.git
 [submodule "iipa_frontend"]
 	path = iipa_frontend
 	url = git@github.com:SL2000s/iipa_frontend.git
+[submodule "kb-backend"]
+	path = kb-backend
+	url = git@github.com:SL2000s/kb-backend.git
+[submodule "kb-frontend"]
+	path = kb-frontend
+	url = git@github.com:SL2000s/kb-frontend.git
